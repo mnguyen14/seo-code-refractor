@@ -41,11 +41,13 @@ nav ul li {
     margin-left: 25px;
 }
 
+/* Regarding text/links in nav */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Regarding section and aside elements */
 p {
     font-size: 16px;
 }
@@ -59,11 +61,13 @@ figure {
     background-position: center;
 }
 
+/* For Search Engine Optimization and Social Media Marketing text and image */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* For Online Reputation Management text and image */
 .float-right {
     float: right;
     margin-left: 25px;
@@ -75,6 +79,7 @@ section {
     margin-left: 20px;
 }
 
+/* All of these are in the section element and have the same properties. */
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -110,6 +115,7 @@ aside {
     background-color: #2589bd;
 }
 
+/* All these are in the aside element and have the same properties. */
 .aside-lead,
 .aside-brand,
 .aside-cost {
